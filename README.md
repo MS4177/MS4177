@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 🎓 PhD Researcher in Electric Vehicle Battery Systems  
+- 🎓 Researcher in Electric Vehicle Battery Systems  
 - 🔬 7+ Years Experience in Battery Degradation & Lifecycle Modelling  
 - 🤖 Specialized in Machine Learning-Based SOH, RUL & EOL Estimation  
 - ⚡ Focused on Performance Assessment & Predictive Battery Analytics  
