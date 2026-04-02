@@ -10,13 +10,11 @@ Here are some ideas to get you started:
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Battery-SOH-blue?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/EOL-Prediction-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EV-Powertrain-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Recycling-Sustainability-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Battery-SOH-0F172A?style=for-the-badge&logo=battery&logoColor=00D4FF&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/EOL-Prediction-1E3A8A?style=for-the-badge&logo=trendmicro&logoColor=ffffff&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/EV-Powertrain-0EA5E9?style=for-the-badge&logo=tesla&logoColor=ffffff&labelColor=020617"/>
+  <img src="https://img.shields.io/badge/Recycling-Sustainability-16A34A?style=for-the-badge&logo=leaflet&logoColor=ffffff&labelColor=020617"/>
 </p>
-
-<h3 align="center">🔋 EV Battery Researcher | Machine Learning | Lifecycle Analytics</h3>
 
 ## 🚀 About Me
 
