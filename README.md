@@ -10,15 +10,8 @@ Here are some ideas to get you started:
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=EV%20Battery%20Research%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0F172A,70:1E3A8A,100:00D4FF&height=250&section=header&text=EV%20Battery%20Intelligence%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOH%20%7C%20RUL%20%7C%20EOL%20Prediction%20%7C%20Lifecycle%20Analytics&descSize=18&descAlignY=60"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Maharshi Singh</h1>
-
-<h3 align="center">🔋 EV Battery Researcher | Machine Learning | Lifecycle Analytics</h3>
-
----
-
 ## 🚀 About Me
 
 - 🎓 Researcher in Electric Vehicle Battery Systems  
