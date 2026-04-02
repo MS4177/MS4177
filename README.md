@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=200&section=header&text=EV%20Battery%20Research%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahirishi Singh</h1>
+<h1 align="center">Hi 👋, I'm Maharshi Singh</h1>
 
 <h3 align="center">🔋 EV Battery Researcher | Machine Learning | Lifecycle Analytics</h3>
 
