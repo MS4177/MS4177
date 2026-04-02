@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0F172A,70:1E3A8A,100:00D4FF&height=250&section=header&text=EV%20Battery%20Intelligence%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOH%20%7C%20RUL%20%7C%20EOL%20Prediction%20%7C%20Lifecycle%20Analytics&descSize=18&descAlignY=60"/>
+  <img src="https://img.shields.io/badge/Battery-SOH-blue?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/EOL-Prediction-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EV-Powertrain-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Recycling-Sustainability-brightgreen?style=for-the-badge"/>
 </p>
 
 <h3 align="center">🔋 EV Battery Researcher | Machine Learning | Lifecycle Analytics</h3>
