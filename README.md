@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 <!-- ========================= -->
-<!-- 🔋 EV BATTERY PROFILE SECTION -->
+<!-- 🔋 EV BATTERY PROFILE POSTER -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1581092919534-0c1c7a0b9d1f?auto=format&fit=crop&w=1200&q=80" width="100%" />
+</p>
+
+<!-- ========================= -->
+<!-- 🔋 TECH BADGES -->
 <!-- ========================= -->
 
 <p align="center">
