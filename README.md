@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <!-- ========================= -->
-<!-- 🔋 EV BATTERY PROFILE POSTER -->
+<!-- 🔋 EV BATTERY PROFILE BANNER -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581092919534-0c1c7a0b9d1f?auto=format&fit=crop&w=1200&q=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0F172A,70:1E3A8A,100:00D4FF&height=260&section=header&text=EV%20Battery%20Intelligence%20Engineer&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOH%20%7C%20RUL%20%7C%20EOL%20Prediction%20%7C%20Lifecycle%20Analytics&descSize=18&descAlignY=60"/>
 </p>
 
 <!-- ========================= -->
